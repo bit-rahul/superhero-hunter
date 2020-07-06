@@ -7,14 +7,14 @@ Website Link: https://rahulsups.github.io/superhero-hunter/index.html
 
 ## Components:
 ### Home Page
-  -You can search any superhero with auto-suggestions.
-  -Each search result of your favourite Superhero has a favourite button, clicking on which adds it to your SuperHeroes List.
-  -You can know their superpowers using the other details button.
+  1.You can search any superhero with auto-suggestions.
+  2.Each search result of your favourite Superhero has a favourite button, clicking on which adds it to your SuperHeroes List.
+  3.You can know their superpowers using the other details button.
 
 ### Superhero Page
-  -Fetches all the details for your favourite superhero: Power Stats, Appearance, Biography, Work, Connections, etc.
+  1.Fetches all the details for your favourite superhero: Power Stats, Appearance, Biography, Work, Connections, etc.
   
 ### Favourites Page
-  -Displays a list of all your 'Added to favourites' superheroes.
-  -Save all your latest changes.
-  -Favourite icon to remove from Favourites list.
+  1.Displays a list of all your 'Added to favourites' superheroes.
+  2.Save all your latest changes.
+  3.Favourite icon to remove from Favourites list.
